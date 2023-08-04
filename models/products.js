@@ -41,7 +41,7 @@ const ProductSchema = Schema({
         min : 0,
         max : 500,
     },
-    rating : { 
+    rating : {
         type : Number,
         default: 0
     },
